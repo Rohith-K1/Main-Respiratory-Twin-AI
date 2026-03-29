@@ -20,7 +20,15 @@ Modern ventilators operate on fixed settings and react only after unsafe conditi
 * Autonomously adjust ventilation parameters
 * Prevent lung injury before it happens
 
----
+<img width="1919" height="920" alt="Screenshot 2026-03-29 164238" src="https://github.com/user-attachments/assets/b0d28536-a4ac-4443-b971-44ecf2332b06" />
+
+
+---<img width="1785" height="974" alt="Screenshot 2026-03-29 164536" src="https://github.com/user-attachments/assets/4d02a808-94d0-4b87-8db4-0de11c28190a" />
+
+<img width="1674" height="894" alt="Screenshot 2026-03-29 164657" src="https://github.com/user-attachments/assets/bd4b35f0-d3bf-4460-b493-1941ee987957" />
+
+<img width="1773" height="862" alt="Screenshot 2026-03-29 164622" src="https://github.com/user-attachments/assets/9ffe40e0-b328-4759-bb7b-44bc61dbd62d" />
+
 ## Problem
 Traditional ventilators:
 
